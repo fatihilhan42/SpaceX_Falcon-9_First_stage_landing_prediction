@@ -1,4 +1,4 @@
-# SpaceX_Falcon-9_First_stage_landing_prediction
+# SpaceX Falcon-9 First stage landing prediction
 ![giphy](https://github.com/fatihilhan42/SpaceX_Falcon-9_First_stage_landing_prediction/assets/63750425/409bf688-b73f-40c8-a39c-2855f9c5c528)
 
 
